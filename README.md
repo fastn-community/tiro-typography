@@ -1,6 +1,6 @@
 # Welcome to your [FASTN site](https://fastn.io/)
 
-FASTN fastn-community Template Repo
+FASTN Tiro Typography Template Repo
 
 ## 🧞 Commands
 
