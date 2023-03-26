@@ -1,0 +1,73 @@
+-- import: fifthtry.github.io/package-doc/doc as pd
+-- import: fifthtry.github.io/package-doc/forest-theme as ds
+-- import: fifthtry.github.io/package-doc/footer
+
+
+
+-- ds.page: 
+show-footer: true
+site-name: `<repo_name>`
+
+-- ds.page.footer:
+
+-- footer.fastn-footer:
+
+-- end: ds.page.footer
+
+-- pd.package: <repo_name>
+name: <user_name>.github.io/<repo_name>
+
+This FTD font `<repo_name>` can be used for your ftd web projects. 
+
+You can use this <repo_name> inside the `FTD` project. Follow below instructions
+to use this font package.
+
+-- ds.h3: How to use <repo_name>?
+
+-- ds.code: Add this to your FASTN.ftd
+lang: ftd
+
+\-- fastn.dependency: <user_name>.github.io/<repo_name>
+
+-- ds.markdown: 
+
+To use this <repo_name> inside your `ftd` web project, if you are
+using our [doc-site](https://github.com/fifthtry/doc-site) theme then you just
+have to pass types to `ds.page`
+
+Let's say you are using `doc-site` inside your project then, it's as simple as
+making a sandwich.
+
+-- ds.h3: How to use <repo_name> with `ds.page`?
+
+Just import <repo_name> inside your ftd file as shown below:
+
+-- ds.code:
+lang: ftd
+
+\-- import: <user_name>.github.io/<repo_name>
+
+
+-- ds.markdown: 
+
+and pass <repo_name> types to `ds.page` as shown below:
+
+-- ds.code:
+lang: ftd
+
+\-- ds.page:
+types: $<repo_name>.types
+
+-- ds.markdown: 
+
+Once you add `types: <repo_name>.types` inside your ftd file, <repo_name> will
+be added as fastn default typography to your `ds.page` and to all components you
+add inside `ds.page`.
+
+Done! isn't it simple? Try this and don't forget to jump on our [Discord](https://discord.gg/bucrdvptYd)
+
+[Click here to know more](fastn-typography/).
+
+-- end: ds.page
+
+
