@@ -6,7 +6,7 @@
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace inter-font
 ;; with font package name you have given inside this package 
-;; `<user_name>.github.io/<repo_name>/FASTN.ftd file
+;; `fastn-community.github.io/tiro-typography/FASTN.ftd file
 
 
 
@@ -14,7 +14,7 @@
 
 -- ds.page: 
 show-footer: true
-site-name: `<repo_name>`
+site-name: `tiro-typography`
 
 -- ds.page.footer:
 
@@ -22,10 +22,10 @@ site-name: `<repo_name>`
 
 -- end: ds.page.footer
 
--- pd.package: <repo_name>
-name: <user_name>.github.io/<repo_name>
+-- pd.package: tiro-typography
+name: fastn-community.github.io/tiro-typography
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of tiro-typography.
 
 
 -- display-type:
