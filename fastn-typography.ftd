@@ -323,7 +323,7 @@ align-self: center
 align-self: center
 width: fill-container
 
--- ftd.text: किसी के सम्मान और ख्याति पर कोई आक्षेप हो सकेगा
+-- ftd.text: Lorem Ipsum is simply
 role: $heading-box-desktop.headingtitle
 color: $inherited.colors.text-strong
 text-align: center
@@ -403,7 +403,7 @@ border-radius.px: 8
 -- ftd.column:
 width: fill-container
 
--- ftd.text: किसी के सम्मान और ख्याति पर कोई आक्षेप हो सकेगा
+-- ftd.text: Lorem Ipsum is simply
 role: $heading-box-mobile.headingtitle
 color: $inherited.colors.text-strong
 text-align: center
