@@ -8,14 +8,14 @@ Tiro Devanagari Marathi has its origins in a typeface designed for the Murty Cla
 Designers: Tiro Typeworks, Principal design, John Hudson, Fiona Ross and Paul Hanslow
 
 
-## How To Use This Font In Your FPM Package:
+## How To Use This Font In Your FASTN Package:
 
 [Read the docs and demo](https://fastn-community.github.io/tiro-typography).
 
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://fpm.dev/) or jump into our [FifthTry Discord 
+Feel free to check [our documentation](https://fastn.com/) or jump into our [FifthTry Discord 
 server](https://discord.gg/bucrdvptYd).
 
 ## License
